@@ -1,0 +1,73 @@
+*{
+    background-color: rgb(173, 2, 2);
+    color: #fff;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif; 
+    /* text-align: center;  */
+}
+.header{
+    text-align: center;
+}
+.h{
+    font-size: 4rem;
+}
+.p1{
+    color: #c7c2c2;
+}
+
+figure{
+    background-image: url(/student.jpg);
+    background-size: cover;
+    background-blend-mode: overlay;
+    padding: 10px;
+    /* padding-bottom: 20px; */ 
+    
+}
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    /* padding-top: 15px; */
+    /* margin: 5px 20px 10px 20px; */
+} */
+fiqure figcaption{
+    /* margin: 15px 0px 5px 0px; */
+    text-align: left;
+    
+}
+
+.quote{ 
+    text-align: center; 
+} 
+/* li{
+    margin-left: 40%;
+    margin-right: 50%;
+    padding-top: 10px;
+} */
+
+.bio{
+    display: table;
+    margin: 0 auto;
+    line-height: 1.6;
+    /* margin: 0px auto 40px auto; */
+}
+li{
+    margin: 16px 0;
+}
+
+a{
+    color: blueviolet;
+}
+
+.info h2{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.q{
+    display: inline-block;
+     justify-content: center;
+     
+}
+
